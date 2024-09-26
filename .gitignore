@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.webp
+Repaso_parcial.ipynb
+images_land/
+landmarkeje.py
+images_mango/
+*.csv
+mango_leaf_disease/
