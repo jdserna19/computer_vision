@@ -1,1 +1,1 @@
-# computer_vision
+# Visión por computador  
