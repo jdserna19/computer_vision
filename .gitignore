@@ -5,7 +5,7 @@ images_land/
 images_mango/
 *.csv
 mango_leaf_disease/
-
+Lemon_quality/
 # Ignorar archivos específicos
 semana04/Repaso_parcial.ipynb
 semana06/landmarkeje.py
